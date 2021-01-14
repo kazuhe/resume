@@ -5,7 +5,7 @@ Frontend engineer.
 - Language  
 JavaScript, TypeScript
 - Library  
-React（個人開発）
+React
 - Framework  
 Vue.js, Next.js
 
