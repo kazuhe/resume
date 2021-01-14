@@ -7,7 +7,7 @@ JavaScript, TypeScript
 - Library  
 React（個人開発）
 - Framework  
-Vue.js
+Vue.js, Next.js
 
 ## Work Experience
 __Frontend engineer__ : 2020.02 - Present  
@@ -17,11 +17,13 @@ __Markup engineer, Director__ : 2017.08 - 2019.12
 社員数150人の都内受託制作会社にてフロントエンドエンジニアとして勤務
 
 __業務内容__
-- Vue.jsを用いたSPA Webアプリ
+- Vue.jsを用いたSPA Webアプリの制作
 - 100ページを超える大規模サイトの制作・運用
+- JestとReact Testing Libraryを用いたUnitテストとIntegrationテストの実施
+
 
 __使用した言語・ライブラリ・ツール__  
-TypeScript, Webpack, Vue.js
+TypeScript, Webpack, Vue.js, React.js, Next.js, Jest, React Testing Library
 
 ### ■ Markup engineer, Director 2017.08 - 2019.12
 社員数5人の地方Web制作会社にて制作リーダーとして中小企業を対象に販促支援
